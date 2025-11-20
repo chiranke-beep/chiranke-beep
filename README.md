@@ -103,16 +103,6 @@
 
 ---
 
-# 🐍 GitHub Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiranke-beep/chiranke-beep/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/chiranke-beep/chiranke-beep/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 # 🔗 **Connect With Me**  
 <p align="center">
   <a href="https://www.linkedin.com/in/chiran-keshawa-w-877059199/">
@@ -124,6 +114,8 @@
 </p>
 
 ---
+
+![snake gif](https://github.com/chiranke-beep/chiranke-beep/blob/output/github-snake-dark.svg)
 
 <div align="center">
   ⭐ *Thanks for visiting my profile! Feel free to explore my repos or reach out!* 😊  
