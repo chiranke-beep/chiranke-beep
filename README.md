@@ -108,10 +108,24 @@
   <a href="https://www.linkedin.com/in/chiran-keshawa-w-877059199/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
+
   <a href="mailto:chiranke@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME_OR_PROFILE_ID">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/>
+  </a>
+
+  <a href="https://discord.gg/YOUR_DISCORD_INVITE_OR_USERNAME">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
+
 
 ---
 
