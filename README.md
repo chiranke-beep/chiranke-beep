@@ -121,7 +121,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/>
   </a>
 
-  <a href="https://discord.gg/beg_me_">
+  <a href="https://discord.gg/763286123128553542">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
