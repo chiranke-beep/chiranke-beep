@@ -57,7 +57,7 @@
 ### 🔹 **FitZone Gym Management Website**
 🏋️ 3 Dashboards → User, Staff, Admin  
 🛠 Tech: PHP, MySQL, JS, GSAP  
-🔗 *(Add repository link once uploaded)*
+🔗 **Repository:** [FitZone Gym Management Website](https://github.com/chiranke-beep/FitZone-Gym)
 
 ---
 
