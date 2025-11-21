@@ -78,7 +78,7 @@
 ### 🔹 **C++ Upcountry Warriors System**
 🏟️ Team & player management with login  
 🛠 Tech: C++  
-🔗 *(Add repository link once uploaded)*
+🔗 **Repository:** [C++ Upcountry Warriors System](https://github.com/chiranke-beep/Upcountry-Warriors)
 
 ---
 
