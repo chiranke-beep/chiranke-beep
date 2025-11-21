@@ -50,7 +50,7 @@
 ### 🔹 **GadgetHub – Multi-Distributor Ordering System (SOA)**
 📦 Real-time quotation comparison across 3 distributors  
 🛠 Tech: ASP.NET Core, React, SQL Server, REST APIs  
-🔗 *(Add repository link once uploaded)*
+
 
 ---
 
@@ -64,14 +64,14 @@
 ### 🔹 **Android Hotel Booking App**
 📱 Firebase Authentication + Booking System  
 🛠 Tech: Java, Android Studio, Firebase  
-🔗 *(Add repository link once uploaded)*
+🔗 **Repository:** [Android Hotel Booking App](https://github.com/chiranke-beep/Hotel-Booking-App)
 
 ---
 
 ### 🔹 **Java OOP Pet Shop System**
 🖥️ Full CRUD desktop system using JFrame  
 🛠 Tech: Java OOP, Swing  
-🔗 *(Add repository link once uploaded)*
+
 
 ---
 
