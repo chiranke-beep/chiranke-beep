@@ -50,7 +50,7 @@
 ### 🔹 **GadgetHub – Multi-Distributor Ordering System (SOA)**
 📦 Real-time quotation comparison across 3 distributors  
 🛠 Tech: ASP.NET Core, React, SQL Server, REST APIs  
-🔗 **Repository:** [Android Hotel Booking App](https://github.com/chiranke-beep/Gadget-hub)
+🔗 **Repository:** [GadgetHub – Multi-Distributor Ordering System](https://github.com/chiranke-beep/Gadget-hub)
 
 ---
 
@@ -71,7 +71,7 @@
 ### 🔹 **Java OOP Pet Shop System**
 🖥️ Full CRUD desktop system using JFrame  
 🛠 Tech: Java OOP, Swing  
-🔗 **Repository:** [Android Hotel Booking App](https://github.com/chiranke-beep/Pet-Shop-System)
+🔗 **Repository:** [Java OOP Pet Shop System](https://github.com/chiranke-beep/Pet-Shop-System)
 
 ---
 
