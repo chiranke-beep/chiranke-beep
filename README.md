@@ -45,53 +45,6 @@
 
 ---
 
-# 🚀 **Featured Projects**
-
-### 🔹 **GadgetHub – Multi-Distributor Ordering System (SOA)**
-📦 Real-time quotation comparison across 3 distributors  
-🛠 Tech: ASP.NET Core, React, SQL Server, REST APIs  
-🔗 **Repository:** [GadgetHub – Multi-Distributor Ordering System](https://github.com/chiranke-beep/Gadget-hub)
-
----
-
-### 🔹 **FitZone Gym Management Website**
-🏋️ 3 Dashboards → User, Staff, Admin  
-🛠 Tech: PHP, MySQL, JS, GSAP  
-🔗 **Repository:** [FitZone Gym Management Website](https://github.com/chiranke-beep/FitZone-Gym)
-
----
-
-### 🔹 **Android Hotel Booking App**
-📱 Firebase Authentication + Booking System  
-🛠 Tech: Java, Android Studio, Firebase  
-🔗 **Repository:** [Android Hotel Booking App](https://github.com/chiranke-beep/Hotel-Booking-App)
-
----
-
-### 🔹 **Java OOP Pet Shop System**
-🖥️ Full CRUD desktop system using JFrame  
-🛠 Tech: Java OOP, Swing  
-🔗 **Repository:** [Java OOP Pet Shop System](https://github.com/chiranke-beep/Pet-Shop-System)
-
----
-
-### 🔹 **C++ Upcountry Warriors System**
-🏟️ Team & player management with login  
-🛠 Tech: C++  
-🔗 **Repository:** [C++ Upcountry Warriors System](https://github.com/chiranke-beep/Upcountry-Warriors)
-
----
-
-# 🌱 **Currently Learning (MERN Stack)**  
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-</p>
-
----
-
 # 🔗 **Connect With Me**  
 <p align="center">
   <a href="https://www.linkedin.com/in/chiran-keshawa-w-877059199/">
