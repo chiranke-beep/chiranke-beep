@@ -20,7 +20,6 @@
 
 - 🔥 Passionate about full-stack development & real-world systems  
 - 🧠 Strong in problem-solving, UI/UX, and system architecture  
-- 📚 Currently learning the **MERN Stack**  
 - 🌍 Love building projects that make an impact  
 - 💼 Actively looking for **Software Developer Internships**  
 
