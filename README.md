@@ -9,42 +9,42 @@
 </h1>
 
 <p align="center">
-  🚀 Software Engineering Student • Full-Stack Developer  
+  Software Engineering Student • Full-Stack Developer  
   <br>
-  💻 I turn ideas into real-world applications & love learning new technologies.
+  I turn ideas into real-world applications & love learning new technologies.
 </p>
 
 ---
 
-# 🎯 **About Me**
+# **About Me**
 
-- 🔥 Passionate about full-stack development & real-world systems  
-- 🧠 Strong in problem-solving, UI/UX, and system architecture  
-- 🌍 Love building projects that make an impact  
-- 💼 Actively looking for **Software Developer Internships**  
+- Passionate about full-stack development & real-world systems  
+- Strong in problem-solving, UI/UX, and system architecture  
+- Love building projects that make an impact  
+- Actively looking for **Software Developer Internships**  
 
 ---
 
-# ⚡ **Tech Stack & Tools**
+# **Tech Stack & Tools**
 
-### 🖥️ Frontend  
+### Frontend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
 </p>
 
-### 🧠 Backend  
+### Backend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,cs,dotnet,java,cpp,nodejs,express" />
 </p>
 
-### 🧰 Tools  
+### Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,git,github" />
 </p>
 
 ---
 
-# 🔗 **Connect With Me**  
+# **Connect With Me**  
 <p align="center">
   <a href="https://www.linkedin.com/in/chiran-keshawa-w-877059199/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
