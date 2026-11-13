@@ -50,9 +50,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
 
-  <a href="mailto:chiranke@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chiranke@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+</a>
 
   <a href="https://www.instagram.com/chiran_ck/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
@@ -73,5 +73,5 @@
 ![snake gif](https://github.com/chiranke-beep/chiranke-beep/blob/output/github-snake-dark.svg)
 
 <div align="center">
-  ⭐ *Thanks for visiting my profile! Feel free to explore my repos or reach out!* 😊  
+   Thanks for visiting my profile! Feel free to explore my repos or reach out!
 </div>
