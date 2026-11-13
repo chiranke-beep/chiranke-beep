@@ -1,77 +1,64 @@
-<!-- Banner / Header -->
-<div align="center">
-  <img src="https://img.devrant.com/devrant/rant/r_462432_ZzKQZ.gif" width="50%" />
-</div>
-
 <!-- Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Chiran+Keshawa+Weerasekara;Software+Engineering+Student;Full-Stack+Developer;Mobile+%26+Web+App+Developer;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&center=true&vCenter=true&width=750&lines=Chiran+Keshawa+Weerasekara;Software+Engineer;Full-Stack+Developer;Cloud-Native+%26+Distributed+Systems">
 </h1>
 
 <p align="center">
-  Software Engineering Student • Full-Stack Developer  
+  Software Engineer • Full-Stack Developer  
   <br>
-  I turn ideas into real-world applications & love learning new technologies.
+  Building scalable web applications, RESTful microservices, and distributed cloud systems.
 </p>
 
 ---
 
-# **About Me**
+## About
 
-- Passionate about full-stack development & real-world systems  
-- Strong in problem-solving, UI/UX, and system architecture  
-- Love building projects that make an impact  
-- Actively looking for **Software Developer Internships**  
-
----
-
-# **Tech Stack & Tools**
-
-### Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
-</p>
-
-### Backend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,cs,dotnet,java,cpp,nodejs,express" />
-</p>
-
-### Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,git,github" />
-</p>
+- Full-stack software engineer with hands-on experience across modern frontend frameworks, backend runtimes, and databases.
+- Practical experience with service-oriented architecture, real-time WebSockets, automated testing, and containerization.
+- Actively seeking Software Engineering and Full-Stack Developer opportunities.
 
 ---
 
-# **Connect With Me**  
-<p align="center">
+## Technical Skills
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,postgres,mongodb,mysql,aws,docker" />
+</p>
+
+### Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" />
+</p>
+
+---
+
+## Connect
+
+<p align="left">
   <a href="https://www.linkedin.com/in/chiran-keshawa-w-877059199/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chiranke@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-</a>
-
-  <a href="https://www.instagram.com/chiran_ck/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-
-  <a href="https://www.facebook.com/chiran.weerasekara">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/>
-  </a>
-
   <a href="https://discord.gg/763286123128553542">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
-
 ---
 
-![snake gif](https://github.com/chiranke-beep/chiranke-beep/blob/output/github-snake-dark.svg)
-
-<div align="center">
-   Thanks for visiting my profile! Feel free to explore my repos or reach out!
-</div>
+<p align="center">
+  <img src="https://github.com/chiranke-beep/chiranke-beep/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
